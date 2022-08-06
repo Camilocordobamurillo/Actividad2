@@ -1,0 +1,32 @@
+body {
+    background-color: #E8E6D8;
+}
+
+.encabezado {
+    background-color: #772299;
+    color: #ff4700;
+}
+
+.encabezado a {
+    background-color: #772299;
+    color: #DDD;
+}
+
+.card-header {
+    background-color: #772299;
+    color: #ff4700;
+}
+
+footer {
+    background-color: #772299;
+    color: #ff4700;
+}
+
+.enlace-interes {
+    color: #DDD !important;
+    text-decoration: none;
+}
+
+h3 {
+    color: #772299;
+}
